@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lifeonmars-h.github.io/marsh/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lifeonmars-h.github.io/marsh/</loc>
+</url>
+<url>
+<loc>https://lifeonmars-h.github.io/marsh/bienvenue-2.html</loc>
+<lastmod>2026-05-19T15:20:07-05:00</lastmod>
+<image:image>
+<image:loc>https://lifeonmars-h.github.io/marsh/media/posts/2/letter-collider-export.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lifeonmars-h.github.io/marsh/media/posts/2/portada-con-nombre.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lifeonmars-h.github.io/marsh/media/posts/2/contra-portada.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

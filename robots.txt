@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lifeonmars-h.github.io/marsh/sitemap.xml
